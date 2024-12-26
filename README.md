@@ -30,14 +30,19 @@ Grâce à la connexion WiFi et à la plateforme Adafruit IO, l'utilisateur peut 
 
 Voici le tableau de bord Adafruit IO utilisé pour le contrôle des boissons :
 
+
 ![Dashboard](https://github.com/Ayoub-B-H/Distribution-Automatique-IoT/blob/main/images/Dashboard.png?raw=true)
+
 
 Voici les images de réalisation :
 
+
 ![image1](https://github.com/Ayoub-B-H/Distribution-Automatique-IoT/blob/main/images/realisation.jpg?raw=true)
+
 
 
 ![image2](https://github.com/Ayoub-B-H/Distribution-Automatique-IoT/blob/main/images/realisation2.jpg?raw=true)
 
 
-![image3]()
+
+![image3](https://github.com/Ayoub-B-H/Distribution-Automatique-IoT/blob/main/images/realisation3.jpg?raw=true)
