@@ -28,7 +28,7 @@ Grâce à la connexion WiFi et à la plateforme Adafruit IO, l'utilisateur peut 
 
 ---
 
-Voici le tableau de bord Adafruit IO utilisé pour le contrôle des boissons :
+Voici le Dashboard Adafruit IO utilisé pour le contrôle des boissons :
 
 
 ![Dashboard](https://github.com/Ayoub-B-H/Distribution-Automatique-IoT/blob/main/images/Dashboard.png?raw=true)
